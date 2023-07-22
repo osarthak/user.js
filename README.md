@@ -2,7 +2,7 @@
 <p align="center">Removes Mozilla spyware from Firefox and makes Firefox more secure</p>
 
 <br>
-
+s
 ## About this user.js
 
 This user.js aims at disabling all Firefox telemetry (spyware), it also hardens the browser, installs uBlock Origin and replaces the spyware search engines with privacy respecting ones.
@@ -12,7 +12,7 @@ This user.js aims at disabling all Firefox telemetry (spyware), it also hardens 
 ## Can't I just disable telemetry in the settings?
 
 Just simply disabling telemetry in the settings is not enough anymore, Firefox will still make multiple connections to Mozilla, Google and other servers, some of these connections even persist as long as Firefox is open.
-
+s
 <br>
 
 ## How to use (GNU/Linux)
@@ -34,11 +34,6 @@ sudo rm /usr/lib64/firefox/browser/features/*
 <br>
 
 ## Is this any better than arkenfox?
-
-<p align="center">
-  <img src="./screenshot.png" width="400">
-  <img src="./screenshot_arkenfox.png" width="400">
-</p>
 
 Arkenfox improves on the situation however as you can see on the image Firefox still makes multiple connection to Google and other servers (the firefox related connections are in the red area).
 <br><br>
